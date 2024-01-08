@@ -1,5 +1,4 @@
-import Counter from "./counter/components/Counter";
-
+import Counter from "./features/counter/components/Counter";
 const App = () => (
   <main>
     <Counter />
